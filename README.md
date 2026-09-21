@@ -1,5 +1,5 @@
-Rosemary Akpovi
-Applied AI Engineer | Energy and Logistics | MSc AI and Data Science
+# Rosemary Akpovi
+## Applied AI Engineer | Energy and Logistics | MSc AI and Data Science
 
 I spent over a decade running petroleum product distribution in Nigeria. My own trucks kept losing hours at the terminal, and those delays landed on my customers as late deliveries. Fuel queues. Plants running short. Production stopping. I went looking for a way to cut turnaround time, and that search led me to machine learning.
 
